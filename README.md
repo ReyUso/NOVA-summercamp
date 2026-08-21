@@ -1,2 +1,2 @@
 # NOVA-summercamp
-This is just for educational purposes onl
+This is just for educational purposes only
