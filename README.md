@@ -1,3 +1,4 @@
 # NOVA-summercamp
 This is just for educational purposes only
-Don't forget CIty for life
+
+Don't forget City for life
